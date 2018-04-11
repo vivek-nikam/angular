@@ -1,0 +1,25 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "This is a directory for GIT and node",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek-nikam/angular.git"
+  },
+  "author": "Vivek Nikam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek-nikam/angular/issues"
+  },
+  "homepage": "https://github.com/vivek-nikam/angular#readme"
+}
